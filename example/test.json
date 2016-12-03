@@ -1,0 +1,116 @@
+[
+  {
+    "_id": "583feb610289d7dfe509d772",
+    "index": 0,
+    "guid": "6732b016-b92e-4470-a37e-27214f8916c0",
+    "isActive": true,
+    "latitude": 69.765785,
+    "longitude": -166.546912,
+    "tags": [
+      "ullamco",
+      "minim",
+      "ea",
+      "ea",
+      "fugiat",
+      "sint",
+      "officia"
+    ],
+    "friends": [],
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "583feb6116734f5698b80b8f",
+    "index": 1,
+    "guid": "c343dde7-fbe9-42dc-8dd8-60f2199c12e3",
+    "isActive": true,
+    "latitude": -81.154079,
+    "longitude": -178.184534,
+    "tags": [
+      "elit",
+      "consectetur",
+      "dolor",
+      "ipsum",
+      "eu",
+      "dolor",
+      "minim"
+    ],
+    "friends": [],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "583feb615f7c56d2ed252329",
+    "index": 2,
+    "guid": "8a0c955e-57fa-46d4-ac77-2ece28be3180",
+    "isActive": true,
+    "latitude": -18.930184,
+    "longitude": -45.942845,
+    "tags": [
+      "aliqua",
+      "officia",
+      "ipsum",
+      "occaecat",
+      "cillum",
+      "amet",
+      "qui"
+    ],
+    "friends": [],
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "583feb6196b408afa4afa9d5",
+    "index": 3,
+    "guid": "751b3073-8500-458f-944a-3d9584f0ae36",
+    "isActive": true,
+    "latitude": -60.841645,
+    "longitude": -111.567708,
+    "tags": [
+      "consectetur",
+      "velit",
+      "cupidatat",
+      "sint",
+      "in",
+      "incididunt",
+      "incididunt"
+    ],
+    "friends": [],
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "583feb61656ba0a176037a41",
+    "index": 4,
+    "guid": "c0ac309e-590d-4a0d-97b0-f6d964afbbd8",
+    "isActive": true,
+    "latitude": -37.497694,
+    "longitude": -150.622038,
+    "tags": [
+      "est",
+      "cupidatat",
+      "irure",
+      "eiusmod",
+      "commodo",
+      "nisi",
+      "veniam"
+    ],
+    "friends": [],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "583feb61c6cab68aff905370",
+    "index": 5,
+    "guid": "29200ed8-8edd-488e-9b0a-98199ed386fe",
+    "isActive": false,
+    "latitude": -44.89129,
+    "longitude": 71.113982,
+    "tags": [
+      "duis",
+      "consectetur",
+      "consequat",
+      "tempor",
+      "quis",
+      "dolore",
+      "reprehenderit"
+    ],
+    "friends": [],
+    "favoriteFruit": "apple"
+  }
+]
